@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('../lib/fonts/I68QmBCYpSY9Sijj.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('../lib/fonts/l-l44KGGW6v7ne_B.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  src: url('../lib/fonts/YX7IKv0doRJLPlv6.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
